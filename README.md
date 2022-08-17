@@ -27,13 +27,36 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [xp]()
     * [kanban]()
 
-### Programming Language
+### Software Development
 
-* python
-    * [pip package manager]()
-* javascript
-    * [npm package manager]()
-    * [yarn package manager]()
+* Data Structures
+    * [Arrays]()
+    * [Stacks]()
+    * [Queues]()
+    * [Linked Lists]()
+    * [Trees]()
+    * [Graphs]()
+    * [Tries]()
+    * [Hash Tables]()
+
+    Reference: [FreeCodeCamp](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/#:~:text=Simply%20put%2C%20a%20data%20structure,for%20the%20problem%20at%20hand.)
+
+* Programming Language
+    * python
+        * [pip package manager]()
+    * javascript
+        * [npm package manager]()
+        * [yarn package manager]()
+
+* design patterns
+    * [Domain-Driven Design]()
+
+* Database
+    * SQL
+        * [postgresql]()
+    * NoSQL
+        * [redis - In-memory key-value data structure store]()
+        * [mongodb]()
 
 ### Infrastructure-as-Code
 
@@ -49,6 +72,9 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 * key concepts
     * [The NIST definition of cloud computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
+* Cloud Providers
+    * [AWS]()
+    * [GCP]()
 
 ### Container runtimes
 
@@ -94,6 +120,8 @@ DevOps The Hard Way guides you through install most important tools used in the 
         * [kaniko](https://github.com/GoogleContainerTools/kaniko)
         * [podman](https://github.com/containers/podman)
         * [buildah](https://github.com/containers/buildah)
+    * Static code analysis for IaC:
+        * [checkov](https://github.com/bridgecrewio/checkov)
 
 ## Tools used in this guide
 
