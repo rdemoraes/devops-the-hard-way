@@ -12,7 +12,7 @@ The audience for this tutorial is someone looking for become a DevOps Engineer.
 
 ## What will be covered on this guide?
 
-DevOps The Hard Way guides you through install most important tools used in the day-by-day of a DevOps Engineer, and also will cover a lot of concepts about Agile Methodologies, the DevOps culture and automation (Yes, let's try to get some fun with it!).
+DevOps The Hard Way guides you through install most important tools used in the day-by-day of a DevOps Engineer, and also covering a lot of concepts about Agile Methodologies, the DevOps culture and automation (Yes, let's try to get some fun with it!).
 
 ### Agile Methodology
 
