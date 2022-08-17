@@ -14,6 +14,11 @@ The audience for this tutorial is someone looking for become a DevOps Engineer.
 
 DevOps The Hard Way guides you through install most important tools used in the day-by-day of a DevOps Engineer, and also covering a lot of concepts about Agile Methodologies, the DevOps culture and automation (Yes, let's try to get some fun with it!).
 
+### DevOps Culture
+
+* [The Phoenix Project](https://github.com/keyvanakbary/learning-notes/blob/master/books/the-phoenix-project.md)
+* [The DevOps Culture](https://github.com/devops-culture-project/devops-culture)
+
 ### Agile Methodology
 
 * key concepts
@@ -21,11 +26,6 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [scrum]()
     * [xp]()
     * [kanban]()
-
-### DevOps Culture
-
-* [The Phoenix Project](https://github.com/keyvanakbary/learning-notes/blob/master/books/the-phoenix-project.md)
-* [The DevOps Culture](https://github.com/devops-culture-project/devops-culture)
 
 ### Programming Language
 
