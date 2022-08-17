@@ -1,6 +1,6 @@
 # Devops The Hard Way
 
-This is just a guide for people looking for become a DevOps Engineer (I don't like the idea of using the DevOps as a role, but we lost this battle to the industry).
+This is just a hands-on guide for people looking for become a DevOps Engineer (I don't like the idea of using the DevOps as a role, but we lost this battle to the industry).
 
 ## Copyright
 
@@ -16,32 +16,83 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 ### Agile Methodology
 
-...[in progress]...
+* key concepts
+* Frameworks
+    * [kanban]()
+    * [scrum]()
 
 ### DevOps Culture
 
-...[in progress]...
+* [The Phoenix Project](https://github.com/keyvanakbary/learning-notes/blob/master/books/the-phoenix-project.md)
+* [The DevOps Culture](https://github.com/devops-culture-project/devops-culture)
 
 ### Programming Language
 
-* [python]()
-* [javascript]()
+* python
+    * [pip package manager]()
+* javascript
+    * [npm package manager]()
+    * [yarn package manager]()
 
-### Basic-Networking
+### Basic-Networking concepts
 
-...[in progress]...
+* [The OSI Model](https://github.com/vald-phoenix/the-osi-model)
 
-### GitOps Framework
+### container runtimes
 
-...[in progress]...
+* [docker](https://github.com/docker/getting-started)
+* [containerd](https://github.com/containerd/containerd)
+
+### Kubernetes
+
+* key concepts using a local cluster
+    * [microk8s](https://github.com/canonical/microk8s)
+    * [container runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#containerd)
+* security & governance
+    * [OPA Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
+        * [Rego Language - Used by the OPA](https://github.com/open-policy-agent/opa/blob/main/docs/content/policy-language.md)
+    * [Popeye - A Kubernetes Cluster Sanitizer](https://github.com/derailed/popeye)
+    * [kubeaudit](https://github.com/Shopify/kubeaudit)
+    * [kube-no-trouble](https://github.com/doitintl/kube-no-trouble)
+    * [kubesec](https://github.com/controlplaneio/kubesec)
+    * [kube-bench](https://github.com/aquasecurity/kube-bench)
+* deployment tools
+    * [helm](https://helm.sh/docs/intro/install/)
+    * [kustomize](https://github.com/kubernetes-sigs/kustomize)
+* monitoring & alerts
+    * [prometheus stack]()
+    * [prometheus adapter]()
+    * [grafana]()
+
+### GitOps Framework & Tools
+
+* key concepts
+* tools
+    * [argocd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd)
+    * [fluxcd v2](https://github.com/fluxcd/flux2/tree/v0.32.0)
+
+### CI CD & Tools
+
+* key concepts
+* CI CD tools
+    * [gitlab-ci](https://docs.gitlab.com/charts/installation/deployment.html#deploy-using-helm)
+* Tools
+    * building container images
+        * [docker's buildx plugin](https://github.com/docker/buildx)
+        * [kaniko](https://github.com/GoogleContainerTools/kaniko)
+        * [podman](https://github.com/containers/podman)
+        * [buildah](https://github.com/containers/buildah)
 
 ### Cloud Infrastructure
 
-...[in progress]...
+* key concepts
+    * [The NIST definition of cloud computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
 
 ### Infrastructure-as-Code
 
-...[in progress]...
+* key concepts
+* tools
+    * [terraform](https://github.com/hashicorp/terraform)
 
 ## Tools used in this guide
 
