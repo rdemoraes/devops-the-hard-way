@@ -26,7 +26,15 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 ...[in progress]...
 
-### Tools used in the development lifecycle
+### Cloud Providers
+
+...[in progress]...
+
+### Infrastructure-as-Code
+
+...[in progress]...
+
+## Tools used in this guide
 
 * [microk8s](https://github.com/canonical/microk8s) v1.24.0
 * [helm3](https://helm.sh/docs/intro/install/) v3
