@@ -27,6 +27,11 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [xp]()
     * [kanban]()
 
+### Security Concepts
+
+* Frameworks
+    * [zero trust concept](https://about.gitlab.com/blog/2022/08/17/why-devops-and-zero-trust-go-together/?utm_campaign=blog&utm_source=twitter&utm_medium=social&utm_content=1660746252)
+
 ### Software Development
 
 * Data Structures
