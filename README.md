@@ -35,7 +35,7 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 ...[in progress]...
 
-### Cloud Providers
+### Cloud Infrastructure
 
 ...[in progress]...
 
