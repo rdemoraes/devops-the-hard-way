@@ -51,6 +51,7 @@ DevOps The Hard Way guides you through install most important tools used in the 
 * [argocd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) v4.10.6
 * [fluxcd v2](https://github.com/fluxcd/flux2/tree/v0.32.0) v0.32.0
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) v4.5.2
+* [terraform](https://github.com/hashicorp/terraform) v1.2.7
 
 ## Labs
 
