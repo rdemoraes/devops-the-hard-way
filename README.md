@@ -22,6 +22,11 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 ...[in progress]...
 
+### Programming Language
+
+* [python]()
+* [javascript]()
+
 ### GitOps Framework
 
 ...[in progress]...
