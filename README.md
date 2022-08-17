@@ -35,9 +35,20 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [npm package manager]()
     * [yarn package manager]()
 
+### Infrastructure-as-Code
+
+* key concepts
+* tools
+    * [terraform](https://github.com/hashicorp/terraform)
+
 ### Networking concepts
 
 * [The OSI Model](https://github.com/vald-phoenix/the-osi-model)
+
+### Cloud Services
+
+* key concepts
+    * [The NIST definition of cloud computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
 
 ### Container runtimes
 
@@ -83,17 +94,6 @@ DevOps The Hard Way guides you through install most important tools used in the 
         * [kaniko](https://github.com/GoogleContainerTools/kaniko)
         * [podman](https://github.com/containers/podman)
         * [buildah](https://github.com/containers/buildah)
-
-### Cloud Infrastructure
-
-* key concepts
-    * [The NIST definition of cloud computing](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf)
-
-### Infrastructure-as-Code
-
-* key concepts
-* tools
-    * [terraform](https://github.com/hashicorp/terraform)
 
 ## Tools used in this guide
 
