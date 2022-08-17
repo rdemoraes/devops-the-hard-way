@@ -18,8 +18,9 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 * key concepts
 * Frameworks
-    * [kanban]()
     * [scrum]()
+    * [xp]()
+    * [kanban]()
 
 ### DevOps Culture
 
