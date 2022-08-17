@@ -53,10 +53,10 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 * Database
     * SQL
-        * [postgresql]()
+        * [postgresql]() # Used as the primary data store or data warehouse for many web, mobile, geospatial, and analytics applications.
     * NoSQL
-        * [redis - In-memory key-value data structure store]()
-        * [mongodb]()
+        * [redis]()   # In-memory key-value data structure store
+        * [mongodb]() # tool that can manage document-oriented information, store or retrieve information
 
 ### Infrastructure-as-Code
 
