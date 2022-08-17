@@ -95,7 +95,7 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [kubesec](https://github.com/controlplaneio/kubesec)
     * [kube-bench](https://github.com/aquasecurity/kube-bench)
 * deployment tools
-    * [helm](https://helm.sh/docs/intro/install/)
+    * [helm](https://github.com/helm/helm)
     * [kustomize](https://github.com/kubernetes-sigs/kustomize)
 * monitoring & alerts
     * [prometheus stack]()
@@ -126,7 +126,7 @@ DevOps The Hard Way guides you through install most important tools used in the 
 ## Tools used in this guide
 
 * [microk8s](https://github.com/canonical/microk8s) v1.24.0
-* [helm3](https://helm.sh/docs/intro/install/) v3
+* [helm](https://github.com/helm/helm) v3.9.3
 * [gitlab-ci](https://docs.gitlab.com/charts/installation/deployment.html#deploy-using-helm) v1.4.4
 * [argocd](https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd) v4.10.6
 * [fluxcd v2](https://github.com/fluxcd/flux2/tree/v0.32.0) v0.32.0
