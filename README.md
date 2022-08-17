@@ -35,11 +35,11 @@ DevOps The Hard Way guides you through install most important tools used in the 
     * [npm package manager]()
     * [yarn package manager]()
 
-### Basic-Networking concepts
+### Networking concepts
 
 * [The OSI Model](https://github.com/vald-phoenix/the-osi-model)
 
-### container runtimes
+### Container runtimes
 
 * [docker](https://github.com/docker/getting-started)
 * [containerd](https://github.com/containerd/containerd)
