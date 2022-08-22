@@ -54,9 +54,9 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
 * Programming Language
     * python
-        * [pip package manager]()
+        * package managers
+            * [pip package manager]()
     * javascript
-        * 
         * package managers
             * [npm dependency package manager]()  # Install dependency packages sequentially
             * [yarn dependency package manager]() # Install dependency packages in parallel
