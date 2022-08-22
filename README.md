@@ -57,6 +57,17 @@ DevOps The Hard Way guides you through install most important tools used in the 
         * package managers
             * [pip package manager]()
     * javascript
+        * [JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+        * keywords
+            * [this](https://www.w3schools.com/js/js_this.asp) # The this keyword refers to different objects depending on how it is used
+        * functions
+            * named functions
+            * anonymous functions
+        * methods
+            * createElement
+            * appendChild
+            * eventListener
+            * eventBubbling
         * package managers
             * [npm dependency package manager]()  # Install dependency packages sequentially
             * [yarn dependency package manager]() # Install dependency packages in parallel
