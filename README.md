@@ -46,12 +46,16 @@ DevOps The Hard Way guides you through install most important tools used in the 
 
     Reference: [FreeCodeCamp](https://www.freecodecamp.org/news/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3/#:~:text=Simply%20put%2C%20a%20data%20structure,for%20the%20problem%20at%20hand.)
 
+* Logic Operators
+
 * Programming Language
     * python
         * [pip package manager]()
     * javascript
-        * [npm dependency package manager]()  # Install dependency packages sequentially
-        * [yarn dependency package manager]() # Install dependency packages in parallel
+        * 
+        * package managers
+            * [npm dependency package manager]()  # Install dependency packages sequentially
+            * [yarn dependency package manager]() # Install dependency packages in parallel
 
 * design patterns
     * [Domain-Driven Design]()
