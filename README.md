@@ -161,3 +161,4 @@ DevOps The Hard Way guides you through install most important tools used in the 
 * [Deploy an application using the GitOps with ArgoCD (pull-based method)]()
 * [Deploy an application using the GitOps with FluxCD (pull-based method)]()
 * [Testing Terraform against LocalStack (AWS applications or Lambdas entirely on your local machine)](https://github.com/localstack/localstack)
+* [Testing Pulumi against LocalStack (AWS applications or Lambdas entirely on your local machine)](https://github.com/localstack/localstack)
