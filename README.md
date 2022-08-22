@@ -73,6 +73,7 @@ DevOps The Hard Way guides you through install most important tools used in the 
 * tools
     * [terraform](https://github.com/hashicorp/terraform)
     * [terragrunt](https://github.com/gruntwork-io/terragrunt)
+    * [pulumi](https://github.com/pulumi/pulumi)
 
 ### Networking concepts
 
