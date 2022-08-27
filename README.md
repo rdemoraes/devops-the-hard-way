@@ -1,6 +1,6 @@
 # Devops The Hard Way
 
-This is just a hands-on guide for people looking for become a DevOps Engineer (I don't like the idea of using the DevOps as a role, but we lost this battle to the industry).
+This is just a hands-on guide for people looking to become DevOps Engineer (I don't like the idea of using the DevOps as a role, but we lost this battle to the industry).
 
 ## Copyright
 
@@ -12,7 +12,7 @@ The audience for this tutorial is someone looking for become a DevOps Engineer.
 
 ## What will be covered on this guide?
 
-DevOps The Hard Way guides you through install most important tools used in the day-by-day of a DevOps Engineer, and also covering a lot of concepts about Agile Methodologies, the DevOps culture and automation (Yes, let's try to get some fun with it!).
+DevOps The Hard Way guides you through installing the most important tools used in the day-by-day of a DevOps Engineer, and also covering a lot of concepts about Agile Methodologies, the DevOps culture and automation (Yes, let's try to get some fun with it!).
 
 ### DevOps Culture
 
